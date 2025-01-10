@@ -34,7 +34,7 @@ module Metasploit
 
       VERSION = "6.4.45"
       MAJOR, MINOR, PATCH = VERSION.split('.').map { |x| x.to_i }
-      PRERELEASE = 'dev'
+      PRERELEASE = 'PHANTX-Edition'
       HASH = get_hash
     end
 
