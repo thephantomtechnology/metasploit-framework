@@ -4,6 +4,7 @@ rm -rf /opt/PHANTX/metasploit-framework/*
 
 rm -rf /opt/ANDRAX/metasploit-framework
 
+rm -rf .git*
 
 cp -Rf $(pwd) /opt/PHANTX/metasploit-framework
 
